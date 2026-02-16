@@ -1,2 +1,2 @@
 # CLATest
-CLA Test
+CLA Tester (Lite)
